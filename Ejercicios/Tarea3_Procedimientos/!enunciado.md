@@ -1,3 +1,8 @@
-# TAREA 1 - CANVAS
+# TAREA 3 - Procedimientos y Parametrización 
 
-Como ejercicio de aplicación, se propone realizar una composición (dibujo) simple utilizando figuras básicas —por ejemplo círculos, rectángulos o líneas— ubicadas mediante posiciones relativas dentro del canvas. El objetivo es que la organización visual de la composición se mantenga aunque se modifique el tamaño definido en size(), y que copie lo planificado previamente en la carpeta dibujado a mano.
+Definición del Procedimiento: Crear una función o procedimiento que contenga las instrucciones de dibujo de la composición original.
+Firma/Forma del Procedimiento: La función debe aceptar, de manera obligatoria, cuatro parámetros:
+posicionX: Coordenada horizontal de anclaje.
+posicionY: Coordenada vertical de anclaje.
+ancho: Dimensión horizontal de la composición.
+alto: Dimensión vertical de la composición.
