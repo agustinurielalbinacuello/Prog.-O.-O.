@@ -1,9 +1,5 @@
-## TAREA 2 - FUNCIONES
-Crea una función llamada hayColision que determine si un punto en el espacio está dentro del área de un círculo.
-Especificaciones de la función:
-Nombre: hayColision
-Retorno: Debe devolver un valor booleano (true si hay colisión, false si no).
-Parámetros:
-float px, float py: Las coordenadas del punto (por ejemplo, el mouse).
-float cx, float cy: Las coordenadas del centro del círculo.
-float radio: El radio del círculo. 
+## TAREA 5 - Array 2D
+Crear una grilla bidimensional de tamaño configurable. Cada celda de la grilla debe representarse como un rectángulo en pantalla.
+Declarar un (matriz) que almacene valores numéricos asociados a cada celda.Este array debe ser actualizado en cada ejecución de draw().
+Implementar un procedimiento que recorra la matriz y calcule, para cada celda, la distancia entre el centro del rectángulo y la posición actual del mouse. Guardar esos valores de distancia en el array bidimensional.
+Utilizar la función map() para transformar los valores de distancia en niveles de gris.
