@@ -1,9 +1,6 @@
-## TAREA 2 - FUNCIONES
-Crea una función llamada hayColision que determine si un punto en el espacio está dentro del área de un círculo.
-Especificaciones de la función:
-Nombre: hayColision
-Retorno: Debe devolver un valor booleano (true si hay colisión, false si no).
-Parámetros:
-float px, float py: Las coordenadas del punto (por ejemplo, el mouse).
-float cx, float cy: Las coordenadas del centro del círculo.
-float radio: El radio del círculo. 
+## TAREA 7 - ARRAY ND
+Desarrollar un programa en Processing que genere y dibuje un laberinto simple a partir de una estructura de datos multidimensional.
+
+Cada celda del laberinto debe contener información sobre sus paredes y posibles diagonales. Esta información se almacenará en un array multidimensional. De que tipo de dato podríamos crearlo?. cuantas dimensiones necesito?
+
+La estructura debe permitir definir, para cada celda, si se dibuja o no cada uno de sus lados, incluida las diagonales
